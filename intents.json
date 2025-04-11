@@ -242,10 +242,10 @@
         {
             "tag": "age",
             "patterns": [
-                "how old are you","when were you made","what is your age"
+                "how old are you","when were you made","what is your age?"
             ],
             "responses": [
-                "I was made in 2024, if that's what you are asking!"
+                "I was made in 2025, if that's what you are asking!"
             ]
         }
     ]
